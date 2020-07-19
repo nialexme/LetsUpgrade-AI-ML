@@ -1,0 +1,13 @@
+#Hypothesis test conclusion for Attrition of employees:
+1) Average of Age, TotalWorkingYears, YearsAtCompany, YearsWithCurrManager are less than others but this is not the reason for Attrition.
+2) Average distance from home is more than the others.
+3) Average education is less than others.
+4) Average Job Level is more than others.
+5) Average monthly income is less than others.
+6) Employees Worked in more no.of companies, so the consistancy is less.
+7) Percentage of salary hike were given more to these employees
+8) These employees are having more stocks than others.
+9) Average no.of tranings attended in last year are less than others.
+10) Average of YearsSinceLastPromotion is less than others, may be due to less proactiveness.
+
+
