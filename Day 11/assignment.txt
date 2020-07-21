@@ -1,0 +1,4 @@
+find correlation between other variables with attrition
+eg: Attrition vs age
+attrition vs distancefromhome
+attrition vs gender
